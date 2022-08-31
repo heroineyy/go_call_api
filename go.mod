@@ -1,0 +1,5 @@
+module test_api_call
+
+go 1.18
+
+require github.com/thedevsaddam/gojsonq v2.3.0+incompatible // indirect
